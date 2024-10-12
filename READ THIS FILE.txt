@@ -1,0 +1,38 @@
+========================================English===============================================
+Hello Programmer, this is the Presentation-EscapeRoom 2.0 Project for ETEC Pedro Ferreira Alves.
+
+Unlike the Escape Room game, this one has the standard source code
+
+To make this program functional, follow these steps:
+
+1. Run composer install to install all dependencies.
+
+2. Copy the environment example file by running:
+
+cp .env.example .env
+
+3. Finally, apply the database migrations and seeders with:
+
+php artisan migrate --seed
+
+Now, you can enjoy the website/code! :)
+
+==========================================Portugês=================================================
+
+Olá Programador, este é o Projeto EscapeRoom 2.0 para a ETEC Pedro Ferreira Alves.
+
+Diferente do jogo Escape Room, esse  possui o código fonte padrão
+
+Para tornar este programa funcional, siga estas etapas:
+
+1. Execute o composer install para instalar todas as dependências.
+
+2. Copie o arquivo de exemplo do ambiente executando:
+
+cp .env.example .env
+
+3. Por fim, aplique as migrações e informações de banco de dados com:
+
+php artisan migrate --seed
+
+Agora você pode aproveitar o site/código! :)
